@@ -11,8 +11,10 @@ PS/2キーボードをX68000に接続する変換器です。
 ・batファイルはAVRマイコンに書き込むためのコマンドです。
 
 ## パーツ
-・マイコン ATtiny26L
+・AVRマイコン ATtiny26L
 
 ・mini-DIN7pinコネクタ（オス）
 
 ・mini-DIN6pinコネクタ（メス）
+
+・抵抗とLED
