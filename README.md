@@ -22,3 +22,8 @@ PS/2キーボードをX68000に接続する変換器です。
 ・mini-DIN6pinコネクタ（メス）
 
 ・抵抗とLED
+
+## ピンアサイン
+![Image](https://github.com/user-attachments/assets/18d37756-170f-4d2e-a72b-399d8f2d6552)
+
+この例ではX68000側のコネクタはmini-DIN7pinではなく、mini-DIN8pinを使用しています。
