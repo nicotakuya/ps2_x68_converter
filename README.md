@@ -4,15 +4,15 @@ PS/2キーボードをX68000に接続する変換器です。
 2008年ごろに作りました。動作無保証です。
 
 ## Files
-・keyb.cがソースコード。
+・keyb.c : ソースコード。
 
-・default/ps2x68k.hexがファームウェアです。
+・default/ps2x68k.hex : ファームウェアです。
 
-・apsの拡張子がプロジェクトファイルです。2008年当時、AVR Studio 4 + WinAVRで開発していました。
+・ps2x68k.aps : AVR Studio 4 + WinAVRプロジェクトファイルです。
 
-・ps2x68k_schematics.pngが回路図です。
+・ps2x68k_schematics.png : 回路図です。
 
-・batファイルはAVRマイコンに書き込むためのコマンドです。
+・batファイル : AVRマイコンに書き込むためのコマンドです。
 
 ## パーツ
 ・AVRマイコン ATtiny26L
