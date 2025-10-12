@@ -1,7 +1,7 @@
 # PS/2 X68 Keyboard Converter
 ## 概要
 PS/2キーボードをX68000に接続する変換器です。
-2008年ごろに作りました。動作無保証です。
+2008年ごろに作りました。
 
 ## Files
 ・keyb.c : ソースコード。
@@ -21,9 +21,14 @@ PS/2キーボードをX68000に接続する変換器です。
 
 ・mini-DIN6pinコネクタ（メス）
 
-・抵抗とLED
+・抵抗
+
+・LED
 
 ## ピンアサイン
 ![Image](https://github.com/user-attachments/assets/18d37756-170f-4d2e-a72b-399d8f2d6552)
 
 この例ではX68000側のコネクタはmini-DIN7pinではなく、mini-DIN8pinを使用しています。
+
+## 免責
+動作無保証です。自己責任で取り扱ってください。
